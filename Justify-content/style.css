@@ -20,18 +20,18 @@ h1 {
     height: 100px;
 }
 
-/*Justify content depends on flex-direction, in other words, depends on the main axis*/
+/*Justify content depends on flex-direction, in other words, it depends on the main axis*/
 
 #container {
-    justify-content: flex-end;/*justify content for first container*/
+    justify-content: flex-end;/*justifies content for first container*/
 }
 
 #container-2 {
-    justify-content: space-between;/*givies space in between elements but not edges*/
+    justify-content: space-between;/*gives space in between elements but not edges*/
 }
 
 #container-3 {
-    justify-content: space-around; /*givies space in between elements including edges*/
+    justify-content: space-around; /*gives space in between elements including edges*/
 }
 
 #container-4 {
